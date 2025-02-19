@@ -1,0 +1,19 @@
+.center_text {
+  text-align: center;
+}
+
+.buttons {
+  display:flex;
+}
+
+.disabled {
+  display: none;
+}
+
+.enabled {
+  display: flex;
+}
+
+.about {
+  text-align: center;
+}
