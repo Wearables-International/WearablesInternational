@@ -10,7 +10,7 @@ $ pip install wearablesinternational
 
 ## Usage
 
-- TODO
+- Refer to the Quick Start Guide (PDF)
 
 ## Contributing
 
